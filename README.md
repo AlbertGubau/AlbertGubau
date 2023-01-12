@@ -10,6 +10,8 @@
 **albertgubau/albertgubau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+[![Top Programming Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=albertgubau&theme=radical)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api)
+
 [![Albert's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=albertgubau&theme=radical)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api)
 
-[![Top Programming Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=albertgubau&theme=radical)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api)
+
