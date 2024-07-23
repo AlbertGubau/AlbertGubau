@@ -3,7 +3,7 @@
 - 🔭 I developed a Sound Analysis/Synthesis Software called Nataly!
 - 🌱 I’m currently learning about Web Components and React!
 - 👯 I’m looking to collaborate on any Front-End related project.
-- 📫 How to reach me: https://www.linkedin.com/in/albert-gubau-vi%C3%B1as-2477ab235/
+- 📫 How to reach me: www.linkedin.com/in/albert-gubau
 - ⚡ Fun fact: Currently debugging...
 
 <!--
